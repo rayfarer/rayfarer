@@ -6,4 +6,4 @@ Currently developing [RoboEdit](https://roboedit.app) and [YuleLog](https://yule
 
 YuleLog is also available on the [App Store](https://apps.apple.com/us/app/yulelog/id1493430055).
 
-In my spare time, I have also developed fun tools like Campmtime ([Web version](https://github.com/rayfarer/camptime) || [Python](https://github.com/rayfarer/eq-scripts/tree/master/camptime)) related to the classic MMORPG EverQuest.
+In my spare time, I have also developed fun tools like **Camptime** ([Web version](https://github.com/rayfarer/camptime) | [Python](https://github.com/rayfarer/eq-scripts/tree/master/camptime)) related to the classic MMORPG EverQuest.
